@@ -2,24 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate, CSE, University of Washington
+# <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chienyu_cse_head_shot_0281.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Allen Center 394</p>
+    <p>University of Washington</p>
+    <p>Seattle, WA 98195</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a final year Ph.D. student in UW CSE. 
+My research lies in the intersection of machine learning, systems and computer architecture, with a particularly emphasize on efficiency and acceleration.
+I also believe efficiency is the key to the continue growth and sustanbility of future machine learning and AI applications. 
+I’m fortunate to be advised by Prof. Luis Ceze, and I also work closely with Professor Baris Kasikci.
+I'm part of the awesome [Sampl](https://sampl.cs.washington.edu) research group.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to UW, I obtained my Bachelor and Master degree from Department of Electronics Engineering, National Chiao-Tung University, advised by Prof. Bo-Cheng Lai. 
+# I also hold a minor in Computer Science for my undergraduate. During my Master, I was fortunate to work with Prof. Bo-Cheng Lai.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides research, I enjoy outdoor activities such as tennis, hiking and (backcountry) skiing.
+
+I'm currently on the job market for both academic and industrial research positions. Feel free to contact me if you have opportunities!

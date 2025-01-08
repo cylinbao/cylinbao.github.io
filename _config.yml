@@ -3,21 +3,16 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Chien-Yu
+first_name: Chien-Yu 
 middle_name:
-last_name: Lin
+last_name: Lin (林建宇)
 contact_note: >
   Email is the best way to reach me.
-  # You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website for Chien-Yu Lin.
-  # A simple, whitespace theme for academics. 
-  Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website for Chien-Yu Lin. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: UW, CSE, machine learning, systems, efficient # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: uw_logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -100,7 +95,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -153,7 +148,7 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 announcements:
@@ -162,7 +157,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 

@@ -25,9 +25,13 @@ I also believe efficiency is the key to the continue growth and sustanbility of 
 I’m fortunate to be advised by Prof. Luis Ceze, and I also work closely with Professor Baris Kasikci.
 I'm part of the awesome [Sampl](https://sampl.cs.washington.edu) research group.
 
-Prior to UW, I obtained my Bachelor and Master degree from Department of Electronics Engineering, National Chiao-Tung University, advised by Prof. Bo-Cheng Lai. 
+I am a final-year Ph.D. student in the CSE department at the University of Washington. My research focuses on the intersection of machine learning, systems, and computer architecture, with an emphasis on efficiency and acceleration. I believe that efficiency is key to the continued growth and sustainability of future machine learning and AI applications. I am fortunate to be advised by Professor Luis Ceze and work closely with Professor Baris Kasikci. I am also a member of the awesome [Sampl](https://sampl.cs.washington.edu) research group.
+
+# Prior to UW, I obtained my Bachelor and Master degree from Department of Electronics Engineering, National Chiao-Tung University, advised by Prof. Bo-Cheng Lai. 
 # I also hold a minor in Computer Science for my undergraduate. During my Master, I was fortunate to work with Prof. Bo-Cheng Lai.
 
 Besides research, I enjoy outdoor activities such as tennis, hiking and (backcountry) skiing.
 
+<span style="color:red">
 I'm currently on the job market for both academic and industrial research positions. Feel free to contact me if you have opportunities!
+</span>.

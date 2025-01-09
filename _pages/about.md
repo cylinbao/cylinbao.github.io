@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: > 
   PhD Candidate<br>
-  Email: cyulin@cs.washington.edu<br>
+  Email: cyulin at cs.washington.edu<br>
   <a href="https://sampl.cs.washington.edu/">Sampl lab</a><br>
   <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science and Engineering</a><br>
   University of Washington, Seattle

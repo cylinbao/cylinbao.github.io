@@ -11,17 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "I&#39;m thankful for all the collaborators who work on the following papers with me.",
+          description: "I&#39;m thankful for all the collaborators who work on the following papers with me. * means equal contributions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "I learn a lot by teaching others.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-image-galleries",
       

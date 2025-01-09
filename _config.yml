@@ -7,7 +7,7 @@ first_name: Chien-Yu
 middle_name:
 last_name: Lin (林建宇)
 contact_note: >
-  Email is the best way to reach me.
+  Email: cyulin@cs.washington.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website for Chien-Yu Lin. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

@@ -32,9 +32,11 @@ layout: default
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
         <br>
-        <span>{{ "林建宇" }}</span>
+        <span>{{ site.chinese_name }}</span>
       {% else %}
         {{ site.title }}
+        <br>
+        <span>{{ site.chinese_name }}</span>
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>

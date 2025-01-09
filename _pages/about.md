@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: > 
+  [<a href="assets/pdf/chienyulin_cv.pdf">Curriculum Vitae</a>]<br>
   PhD Candidate<br>
   Paul G. Allen School of Computer Science and Engineering<br>
   Sampl lab<br>

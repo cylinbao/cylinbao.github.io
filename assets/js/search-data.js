@@ -445,6 +445,13 @@ ninja.data = [{
           window.open("mailto:%63%79%75%6C%69%6E@%63%73.%77%61%73%68%69%6E%67%74%6F%6E.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/cylinbao", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -457,6 +464,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=4yAFMt8AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-strava',
+        title: 'Strava',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.strava.com/athletes/80657877", "_blank");
         },
       },{
       id: 'light-theme',

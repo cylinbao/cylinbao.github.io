@@ -12,7 +12,8 @@ profile:
   align: right
   image: chienyu_cse_head_shot_0281_corp.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
+    <p>Photo taken in Gates Center at UW, Nov 2024</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

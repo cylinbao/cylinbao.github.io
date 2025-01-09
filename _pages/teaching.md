@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-### Classes
+### University Courses
 I was the head TA for the following classes at UW and NYCU.
 
 At University of Washington:

@@ -5,9 +5,9 @@ permalink: /
 subtitle: > 
   [<a href="assets/pdf/chienyulin_cv.pdf">Curriculum Vitae</a>]<br>
   PhD Candidate<br>
-  Paul G. Allen School of Computer Science and Engineering<br>
-  Sampl lab<br>
-  University of Washington<br>
+  <a href="https://sampl.cs.washington.edu/">Sampl lab</a><br>
+  <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science and Engineering</a><br>
+  <a href="https://www.washington.edu/">University of Washington</a><br>
 
 profile:
   align: right

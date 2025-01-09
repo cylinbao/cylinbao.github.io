@@ -28,7 +28,3 @@ I am fortunate to be advised by Professor [Luis Ceze](https://homes.cs.washingto
 Prior to UW, I obtained my Bachelor and Master degree from Department of Electronics Engineering, National Yang Ming Chiao Tung University (previously NCTU, now NYCU), advised by Prof. Bo-Cheng Lai. 
 
 Besides research, I enjoy outdoor activities such as tennis, hiking and (backcountry) skiing.
-
-<span style="color:red">
-I'm currently on the job market for both academic and industrial research positions. Feel free to contact me if you have opportunities!
-</span>.

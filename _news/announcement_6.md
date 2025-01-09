@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:briefcase: **<span style="color:red">I am seeking a research position in both academic and industry.</span>** Drop me an email if you have opportunity alinged with my research interests!
+:briefcase: **<span style="color:red">I am on the job market for research positions in both academic and industry.</span>** Drop me an email if you have opportunities!

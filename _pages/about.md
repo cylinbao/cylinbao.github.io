@@ -3,7 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: > 
-  <p>PhD Candidate, CSE Department, University of Washington</p>
+  PhD Candidate<br>
+  Paul G. Allen School of Computer Science and Engineering<br>
+  Sampl lab<br>
+  University of Washington<br>
 
 profile:
   align: right

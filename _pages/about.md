@@ -7,7 +7,7 @@ subtitle: >
   PhD Candidate<br>
   <a href="https://sampl.cs.washington.edu/">Sampl lab</a><br>
   <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science and Engineering</a><br>
-  <a href="https://www.washington.edu/">University of Washington</a><br>
+  University of Washington, Seattle
 
 profile:
   align: right

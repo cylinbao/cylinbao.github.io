@@ -11,7 +11,7 @@ subtitle: >
 
 profile:
   align: right
-  image: chienyu_cse_head_shot_0281.jpg
+  image: chienyu_cse_head_shot_0281_corp.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 

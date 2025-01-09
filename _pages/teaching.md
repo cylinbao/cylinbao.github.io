@@ -2,8 +2,8 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I learn a lot by teaching others.
-nav: true
+description: I learn a lot by teaching.
+nav: false
 nav_order: 6
 ---
 

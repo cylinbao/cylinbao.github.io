@@ -2,12 +2,12 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: I'm thankful for all the collaborators who work on the following papers with me. 
+description: I'm thankful for all the collaborators who work on the following papers with me. * means equal contributions.
 nav: true
 nav_order: 2
 ---
 
-\* means equal contributions
+
 
 <!-- _pages/publications.md -->
 

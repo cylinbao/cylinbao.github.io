@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, CSE, University of Washington
-# <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: > 
+  <p>PhD Candidate</p>, 
+  <p>Paul G. Allen School of Computer Science and Engineering</p>
+  <p>University of Washington</p>
 
 profile:
   align: right
   image: chienyu_cse_head_shot_0281.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Allen Center 394</p>
-    <p>University of Washington</p>
-    <p>Seattle, WA 98195</p>
+  image_circular: True # crops the image to make it circular
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

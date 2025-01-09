@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: > 
+  <p>PhD Candidate, CSE Department, University of Washington</p>
 
 profile:
   align: right
   image: chienyu_cse_head_shot_0281_corp.jpg
   image_circular: false # crops the image to make it circular
-  more_info: > 
-  <p>PhD Candidate</p>
-  <p>Paul G. Allen School of Computer Science and Engineering</p>
-  <p>University of Washington</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

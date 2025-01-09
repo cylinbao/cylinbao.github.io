@@ -452,13 +452,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/chien-yu-lin-4b534ba0", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',

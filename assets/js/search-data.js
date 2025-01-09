@@ -375,22 +375,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-gave-a-talk-on-palu-kv-cache-compression-at-uw-cse-research-day",
+          title: 'Gave a talk on Palu KV-Cache compression at UW CSE research day.',
           description: "",
           section: "News",},{id: "news-i-m-attending-neurips-2024-in-vancouver",
           title: 'I’m attending NeurIPs 2024 in vancouver!',
           description: "",
           section: "News",},{id: "news-i-m-visiting-taiwan-for-three-weeks-hit-me-up-if-you-want-to-chat-about-research",
           title: 'I’m visiting Taiwan for three weeks. Hit me up if you want to...',
+          description: "",
+          section: "News",},{id: "news-briefcase-i-am-seeking-a-research-position-in-both-academic-and-industry-drop-me-an-email-if-you-have-opportunity-alinged-with-my-research-interests",
+          title: ':briefcase: I am seeking a research position in both academic and industry. Drop...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

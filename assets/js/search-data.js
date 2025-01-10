@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Updated on Jan 2025",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/chienyulin_cv_012025.pdf";
+            window.location.href = "/assets/pdf/chienyulin_cv_jan2025.pdf";
           },
         },{id: "nav-publications",
           title: "Publications",

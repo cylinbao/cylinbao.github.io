@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-cv",
+          title: "CV",
+          description: "Updated on Jan 2025",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/assets/pdf/chienyulin_cv_012025.pdf";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "I&#39;m thankful for all the collaborators who work on the following papers with me. * means equal contributions.",
           section: "Navigation",

@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/chienyulin_cv_012025.pdf
+permalink: /assets/pdf/chienyulin_cv_jan2025.pdf
 title: CV 
 cv_pdf: chienyulin_cv_012025.pdf
 description: Updated on Jan 2025

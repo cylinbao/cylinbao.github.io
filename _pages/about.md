@@ -19,8 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Research Scientist in the FAIR group at Meta Superintelligence Labs.
-My research focuses on making machine learning more efficient through algorithm-system co-design.
+I'm a Research Scientist in the FAIR group at Meta Superintelligence Labs. My research interests lie in efficient machine learning algorithms and systems.
 
 I received my Ph.D. in 2025 from the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I was fortunate to be advised by [Luis Ceze](https://homes.cs.washington.edu/~luisceze/) and to work closely with [Baris Kasikci](https://homes.cs.washington.edu/~baris/) and [Arvind Krishnamurthy](https://sites.google.com/cs.washington.edu/arvind).
 During my time at UW, I developed efficient methods for a range of ML workloads, including [GNNs](https://arxiv.org/pdf/2104.10716), [NeRFs](https://arxiv.org/abs/2312.11537), and [LLMs](https://arxiv.org/abs/2310.19102).

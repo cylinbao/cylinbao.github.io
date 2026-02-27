@@ -21,9 +21,9 @@ At National Yang Ming Chiao Tung University:
 * Computer Organization (Undergrad Level), EE, Spring 2015
 
 ### Mentoring
-I find great joy in helping junior students develop skills and achieve their goals. I am fortunate to have mentored the following students.
+I find great joy in helping junior students develop skills and achieve their goals. I am fortunate to have mentored the following wonderful students.
 
-* (Fall 2024 - present) [Yiyu Liu](https://lau.yeeyu.org/) (SJTU), now applying CS PhD program in US.
-* (Spring 2024 - present) [Chi-Chih Chang](https://ccchang.info/) (NYCU), now an ECE PhD student in Cornell.
-* (Summer - Fall 2023) [Yilong Zhao](https://happierpig.github.io/) (SJTU), now an EECS PhD student in UC Berkeley.
+* (Fall 2024 - June 2025) [Yiyu Liu](https://lau.yeeyu.org/) (SJTU), now a PhD student in Harvard CS.
+* (Spring 2024 - June 2025) [Chi-Chih Chang](https://ccchang.info/) (NYCU), now a PhD student in Cornell ECE.
+* (Summer - Fall 2023) [Yilong Zhao](https://happierpig.github.io/) (SJTU), now a PhD student in UC Berkeley EECS.
 * (Spring 2017) Jyun-Wei Pan (NYCU), now an engineer at MediaTek.

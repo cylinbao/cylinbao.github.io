@@ -25,3 +25,4 @@ I received my Ph.D. in 2025 from the Paul G. Allen School of Computer Science & 
 During my time at UW, I developed efficient methods for a range of ML workloads, including [GNNs](https://arxiv.org/pdf/2104.10716), [NeRFs](https://arxiv.org/abs/2312.11537), and [LLMs](https://arxiv.org/abs/2310.19102).
 Before UW, I earned my B.S. and M.S. in Electronics Engineering from National Yang Ming Chiao Tung University (formerly NCTU), where I worked on sparse CNN accelerator design under the guidance of Prof. [Bo-Cheng Lai](https://iee.nycu.edu.tw/en/teacher/p1.php?num=147&page=1).
 
+Beyond research, I enjoy outdoor activities such as running, cycling, and tennis. When time allows, I like spending time in the mountains. I have successfully summited and skied down four of the five major volcanoes in Washington (all except Glacier Peak). In the summer of 2025, I completed a 1,000-mile cycling trip from Seattle to the Bay Area.

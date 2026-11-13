@@ -11,10 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "Updated on Jan 2025",
+          description: "Academic CV · Updated November 2026",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/chienyulin_cv.pdf";
+            window.location.href = "/cv/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -482,7 +482,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/chien-yu-lin-4b534ba0", "_blank");
+          window.open("https://www.linkedin.com/in/cylinbao", "_blank");
         },
       },{
         id: 'social-scholar',

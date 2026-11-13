@@ -9,10 +9,10 @@ last_name: Lin
 chinese_name: 林建宇
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website for Chien-Yu Lin. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Chien-Yu Lin, Research Scientist at FAIR, Meta Superintelligence Labs. Efficient AI through the co-design of models, algorithms, and systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: machine learning, systems, efficiency # add your own keywords or leave empty
+keywords: efficient AI, machine learning systems, model compression, GPU kernels, neural architecture search
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: uw_logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -181,6 +181,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _pages_backup/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md

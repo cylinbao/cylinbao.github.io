@@ -19,10 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Research Scientist in the FAIR group at Meta Superintelligence Labs. My research interests lie in efficient machine learning algorithms and systems.
+I'm a Research Scientist in the FAIR group at Meta Superintelligence Labs. My research focuses on **efficient AI through the co-design of models, algorithms, and systems**, spanning model compression, GPU kernels, and training and inference systems.
+
+At FAIR, I explore agentic methods that use systems feedback to discover new model architectures and efficient implementations, including [AIRA-Compose](https://arxiv.org/abs/2605.15871). I also study [hybrid SSM–Transformer architectures](https://arxiv.org/abs/2510.04800) and [architecture search](https://arxiv.org/abs/2510.00379) to improve model quality and computational efficiency.
 
 I received my Ph.D. in 2025 from the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I was fortunate to be advised by [Luis Ceze](https://homes.cs.washington.edu/~luisceze/) and to work closely with [Baris Kasikci](https://homes.cs.washington.edu/~baris/) and [Arvind Krishnamurthy](https://sites.google.com/cs.washington.edu/arvind).
-During my time at UW, I developed efficient methods for a range of ML workloads, including [GNNs](https://arxiv.org/pdf/2104.10716), [NeRFs](https://arxiv.org/abs/2312.11537), and [LLMs](https://arxiv.org/abs/2310.19102).
+During my time at UW, I worked on [efficient RAG inference](https://arxiv.org/abs/2502.20969), [KV-cache compression](https://arxiv.org/abs/2407.21118), [low-bit LLM quantization](https://arxiv.org/abs/2310.19102), and [GNN inference](https://arxiv.org/abs/2104.10716). During internships at Apple, I studied [efficient NeRF rendering](https://arxiv.org/abs/2312.11537) and [weight sharing](https://arxiv.org/abs/2207.10237).
 Before UW, I earned my B.S. and M.S. in Electronics Engineering from National Yang Ming Chiao Tung University (formerly NCTU), where I worked on sparse CNN accelerator design under the guidance of Prof. [Bo-Cheng Lai](https://iee.nycu.edu.tw/en/teacher/p1.php?num=147&page=1).
 
-Beyond research, I enjoy outdoor activities such as running, cycling, and tennis. When time allows, I like spending time in the mountains. I have successfully summited and skied down four of the five major volcanoes in Washington (all except Glacier Peak). In the summer of 2025, I completed a 1,000-mile cycling trip from Seattle to the Bay Area.
+Beyond research, I enjoy running, cycling, tennis, mountaineering, and backcountry skiing. I lead group expeditions in the mountains, with summits and ski descents on Mt. Rainier, Mt. Shasta, and Mt. Hood. In summer 2025, I cycled 1,000 miles from Seattle to Menlo Park; in summer 2026, I continued another 600 miles to San Diego, completing my goal of cycling the Pacific Coast from Seattle to San Diego.
